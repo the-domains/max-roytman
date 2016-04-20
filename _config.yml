@@ -1,0 +1,28 @@
+name: Max Roytman
+favicon: null
+layout_spectrum: 0.46749676764011383
+typography_spectrum: 0.9029765864834189
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6661829340737313
+  lightness: 0.261303027626127
+  saturation: 0.269092058762908
+  rhythmicContrast: 0.7419697288423777
+purpose: []
